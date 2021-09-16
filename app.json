@@ -11,11 +11,13 @@
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
-            "value": ""
+            "value": "",
+            "required": true
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
-            "value": ""
+            "value": "",
+            "required": true
         },
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org",
@@ -29,6 +31,16 @@
         "ENV": {
             "description": "Set this Value to 'ANYTHING'. Don't Change it",
             "value": "ANYTHING"
+        },
+        "OWNER_USERNAME": {
+            "description": "your username without @",
+            "value": "Alvin_junior",
+            "required": true
+               },
+        "OWNER_ID": {
+            "description": "your id",
+            "value": "478939112",
+            "required": true     
         }
     },
     "addons": [],
