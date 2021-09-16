@@ -1,7 +1,7 @@
 {
     "name": "Image-Editor-Bot",
     "description": "A Bot that can Edit Images in various modes",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "logo": "https://telegra.ph/file/d19b68d228e2dc46eb8f5.jpg",
     "keywords": [
         "Image",
         "Editor",
@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/fahrial2310/IMGEditor-TeleBot-ENG",
     "env": {
-        "TG_BOT_TOKEN": {
+        "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
             "value": ""
         },
@@ -26,7 +26,7 @@
             "value": "",
             "required": false
         },
-        "WEBHOOK": {
+        "ENV": {
             "description": "Set this Value to 'ANYTHING'. Don't Change it",
             "value": "ANYTHING"
         }
