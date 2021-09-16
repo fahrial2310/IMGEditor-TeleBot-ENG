@@ -105,8 +105,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🆘️ HELP", callback_data="help_data"),
-                    InlineKeyboardButton("©️ ABOUT", callback_data="about_data"),
+                    InlineKeyboardButton("HELP", callback_data="help_data"),
+                    InlineKeyboardButton("ABOUT", callback_data="about_data"),
                 ],
                 [
                     InlineKeyboardButton(
@@ -125,8 +125,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🔙 BACK", callback_data="start_data"),
-                    InlineKeyboardButton("©️ ABOUT", callback_data="about_data"),
+                    InlineKeyboardButton(" BACK", callback_data="start_data"),
+                    InlineKeyboardButton("ABOUT", callback_data="about_data"),
                 ],
                 [
                     InlineKeyboardButton(
@@ -142,8 +142,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🔙 BACK", callback_data="help_data"),
-                    InlineKeyboardButton("🏠 HOME", callback_data="start_data"),
+                    InlineKeyboardButton("BACK", callback_data="help_data"),
+                    InlineKeyboardButton("HOME", callback_data="start_data"),
                 ],
                 [
                     InlineKeyboardButton(
