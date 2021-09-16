@@ -65,8 +65,8 @@ async def about(client, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🔙 BACK", callback_data="help_data"),
-                        InlineKeyboardButton("🏠 HOME", callback_data="start_data"),
+                        InlineKeyboardButton("ACK", callback_data="help_data"),
+                        InlineKeyboardButton("HOME", callback_data="start_data"),
                     ],
                     [
                         InlineKeyboardButton(
