@@ -5,16 +5,16 @@ class script(object):
 I'm A Image Editor Bot Can edit you image
 
 For more click help....</b>"""
-    HELP_MSG = """Hi, Follow These Steps..
+    HELP_MSG = """Follow These Steps for help..
 
-<code>1️⃣ Send Me Any Image To Edit..</code>
+<code>1️> Send Me Any Image To Edit..</code>
 
-<code>2️⃣ Select The Corresponding Mode That You Need</code>
+<code>2️> Select The Corresponding Mode That You Need</code>
 
-<code>3️⃣ Your Edited Image Will Be Uploaded </code>
+<code>3️> Your Edited Image Will Be Uploaded </code>
 
 
-© @Alvin_junior"""
+☠️ @Alvin_junior"""
     ABOUT_MSG = """☠️ <b>My Name is:</b> :</b> <a href='t.me/AlvinImageEditor'>Alvin Image Editor ☠️</a>
 ☠️ <b>Creator :</b> <a href='t.me/Alvin_junior'>Muhammad Fahri</a>
 
