@@ -40,6 +40,7 @@ async def photo(client: Client, message: Message):
                     [
                         InlineKeyboardButton(text="❌CLOSE❌", callback_data="close_e"),
                     ],
+                    [
                         InlineKeyboardbutton(text="Support", url="Alvin_image_editor_group"),
                         InlineKeyboardButton(text="Updates", url="Alvin_image_editor"),
                     ],
