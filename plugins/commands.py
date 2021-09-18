@@ -38,7 +38,7 @@ async def help(client, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("BACK", callback_data="start_data"),
+                        InlineKeyboardButton("◀ BACK", callback_data="start_data"),
                         InlineKeyboardButton("ABOUT", callback_data="about_data"),
                     ],
                     [
@@ -64,7 +64,7 @@ async def about(client, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("ACK", callback_data="help_data"),
+                        InlineKeyboardButton("◀ BACK", callback_data="help_data"),
                         InlineKeyboardButton("HOME", callback_data="start_data"),
                     ],
                     [
