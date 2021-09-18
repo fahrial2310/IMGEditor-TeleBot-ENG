@@ -3,7 +3,6 @@ class script(object):
     START_MSG = """ <b>Hi {}
 
 I'm A Image Editor Bot Can edit you image
-
 For more click help....</b>"""
     HELP_MSG = """Follow These Steps for help..
 
@@ -22,5 +21,5 @@ For more click help....</b>"""
 
 ☠️ <b>Updates Channel :</b> <a href='t.me/Alvin_image_editor'>Alvin Updates</a>
 
-☠️ <b>Helpers Group :</b> <a href ='t.me/Alvin_image_editor_helpers
+☠️ <b>off topic Group :</b> <a href ='t.me/Alvin_image_editor_helpers'>Off Topic</a>
 """
