@@ -17,9 +17,8 @@ async def start(client: Client, message: Message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "Updates", url="t.me/Alvin_Image_editor",
-                        InlineKeyboardButton(
-                            "Support", url"t.me/Alvin_image_editor",
+                            "Support", 
+                            url"t.me/Alvin_image_editor_group",
                         )
                     ],
                 ]
