@@ -1,1 +1,1 @@
-worker: python3 -m IMGEditor.py
+worker: python3 -m bot.py
