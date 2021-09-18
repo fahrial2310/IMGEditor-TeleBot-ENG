@@ -43,7 +43,9 @@ async def photo(client: Client, message: Message):
                         InlineKeyboardbutton(text="Support", url="Alvin_image_editor_group"),
                         InlineKeyboardButton(text="Updates", url="Alvin_image_editor"),
                     ],
+                    [
                         InlineKeyboardButton(text="OFF TOPIC", url="Alvin_off_topic"),
+                    ],
                 ]
             ),
             reply_to_message_id=message.message_id,
