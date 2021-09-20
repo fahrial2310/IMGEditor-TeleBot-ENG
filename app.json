@@ -14,6 +14,16 @@
             "value": "",
             "required": true
         },
+        "BOT_USERNAME": {
+            "description": "You Telegram Bot username without @",
+            "value": "",
+            "required": true
+        },
+        "BOT_NAME": {
+            "description": "You Telegram Bot name",
+            "value": "",
+            "required": true
+        },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
             "value": "",
@@ -45,6 +55,17 @@
         },
         "UPDATES_CH": {
             "description": "your username group without @",
+            "value": "Alvin_image_editor",
+            "required": true
+        },
+        "SUPPORT_NAME": {
+            "description": "your support grp name",
+            "value": "Alvin_image_editor_group",
+            "required": true     
+       
+        },
+        "UPDATES_NAME": {
+            "description": "your updates ch name",
             "value": "Alvin_image_editor",
             "required": true
         }
