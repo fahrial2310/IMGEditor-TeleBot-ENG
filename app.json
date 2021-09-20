@@ -11,17 +11,17 @@
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
-            "value": "AlvinFSubRobot",
+            "value": "",
             "required": true
         },
         "BOT_USERNAME": {
             "description": "You Telegram Bot username without @",
-            "value": "Alvin FSub Bot",
+            "value": "AlvinFSubRobot",
             "required": true
         },
         "BOT_NAME": {
             "description": "You Telegram Bot name",
-            "value": "",
+            "value": "Alvin FSub Bot",
             "required": true
         },
         "API_HASH": {
