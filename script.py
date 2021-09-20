@@ -1,3 +1,4 @@
+from config import config
 class script(object):
 
     START_MSG = """ <b>Hi {}
@@ -17,9 +18,9 @@ For more click help....</b>"""
     ABOUT_MSG = """☠️ <b>My Name is:</b> :</b> <a href='t.me/AlvinImageEditor'>Alvin Image Editor ☠️</a>
 ☠️ <b>Creator :</b> <a href='t.me/Alvin_junior'>Muhammad Fahri</a>
 
-☠️ <b>Support Group :</b> <a href='t.me/Alvin_image_editor_group'>Alvin Support</a>
+☠️ <b>Support Group :</b> <a href='t.me/{SUPPORT_GRP}'>{SUPPORT_NAME}</a>
 
-☠️ <b>Updates Channel :</b> <a href='t.me/Alvin_image_editor'>Alvin Updates</a>
+☠️ <b>Updates Channel :</b> <a href='t.me/{UPDATES_CH}'>{UPDATES_NAME}</a>
 
-☠️ <b>off topic Group :</b> <a href ='t.me/Alvin_image_editor_helpers'>Off Topic</a>
+☠️ <b>Source Code :</b> <a href ='https://github.com/fahrial2310/IMGEditor-TeleBot-ENG'>Source Code</a>
 """
