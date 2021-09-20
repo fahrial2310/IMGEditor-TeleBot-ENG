@@ -15,7 +15,7 @@ For more click help....</b>"""
 
 
 ☠️ @Alvin_junior"""
-    ABOUT_MSG = """☠️ <b>My Name is:</b> :</b> <a href='t.me/AlvinImageEditor'>Alvin Image Editor ☠️</a>
+    ABOUT_MSG = """☠️ <b>My Name is:</b> :</b> <a href='t.me/{BOT_USERNAME}'>{BOT_NAME} ☠️</a>
 ☠️ <b>Creator :</b> <a href='t.me/Alvin_junior'>Muhammad Fahri</a>
 
 ☠️ <b>Support Group :</b> <a href='t.me/{SUPPORT_GRP}'>{SUPPORT_NAME}</a>
