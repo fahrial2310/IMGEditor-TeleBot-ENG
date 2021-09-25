@@ -18,9 +18,9 @@ For more click help....</b>"""
     ABOUT_MSG = f"""☠️ <b>My Name is:</b> :</b> <a href='t.me/{BOT_USERNAME}'>{BOT_NAME} ☠️</a>
 ☠️ <b>Creator :</b> <a href='t.me/{OWNER_USERNAME}'>{OWNER_NAME}</a>
 
-☠️ <b>{SUPPORT_NAME} :</b> <a href='t.me/{SUPPORT_GRP}'>{SUPPORT_NAME}</a>
+☠️ <b>Support Group :</b> <a href='t.me/{SUPPORT_GRP}'>{SUPPORT_NAME}</a>
 
-☠️ <b>{UPDATES_NAME} :</b> <a href='t.me/{UPDATES_CH}'>{UPDATES_NAME}</a>
+☠️ <b>Updates Channel :</b> <a href='t.me/{UPDATES_CH}'>{UPDATES_NAME}</a>
 
 ☠️ <b>Source Code :</b> <a href ='https://github.com/fahrial2310/IMGEditor-TeleBot-ENG'>Source Code</a>
 """
