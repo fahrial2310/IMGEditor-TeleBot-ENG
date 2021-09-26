@@ -14,7 +14,6 @@ For more click help....</b>"""
 
 <code>3️> Your Edited Image Will Be Uploaded </code>
 
-
 ☠️ @Alvin_junior"""
     ABOUT_MSG = f"""☠️ <b>My Name is:</b> :</b> <a href='t.me/{BOT_USERNAME}'>{BOT_NAME} ☠️</a>
 ☠️ <b>Creator :</b> <a href='t.me/{OWNER_USERNAME}'>{OWNER_NAME}</a>
