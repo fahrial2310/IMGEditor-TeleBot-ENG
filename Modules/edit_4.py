@@ -6,7 +6,7 @@ import cv2
 import io
 import os
 
-from config import get_str_key
+from config import Config
 
 RemoveBG_API = get_str_key("REM_BG_API_KEY", required=False)
 
