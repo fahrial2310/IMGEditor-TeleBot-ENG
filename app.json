@@ -48,6 +48,11 @@
             "value": "Alvin_junior",
             "required": true
         },
+        "OWNER_NAME": {
+            "description": "yourname",
+            "value": "Muhammad Fahri",
+            "required": true
+        },
         "SUPPORT_GRP": {
             "description": "your username group without @",
             "value": "Alvin_image_editor_group",
@@ -61,13 +66,13 @@
         },
         "SUPPORT_NAME": {
             "description": "your support grp name",
-            "value": "",
+            "value": "Image Editor X Alvin Support",
             "required": true     
        
         },
         "UPDATES_NAME": {
             "description": "your updates ch name",
-            "value": "",
+            "value": "Image Editor X Alvin Updates",
             "required": true
         }
     },
