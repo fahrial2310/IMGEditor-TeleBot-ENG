@@ -111,7 +111,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Updates", url="t.me/{UPDATES_CH}"
+                        f"{UPDATES_NAME}", url=f"t.me/{UPDATES_CH}"
                     )
                 ],
             ]
@@ -131,7 +131,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Updates", url="t.me/{UPDATES_CH}"
+                        f"{UPDATES_NAME}", url=f"t.me/{UPDATES_CH}"
                     )
                 ],
             ]
@@ -148,7 +148,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Updates", url="t.me/{UPDATES_CH}"
+                        f"{UPDATES_NAME}", url=f"t.me/{UPDATES_CH}"
                     )
                 ],
             ]
